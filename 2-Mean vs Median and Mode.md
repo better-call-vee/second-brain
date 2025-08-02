@@ -11,3 +11,7 @@ When I analyze data like **salaries, income, or house prices** - which often hav
 `The Mode` is simply the value that appears most often. In our salary example, no value repeats, so there is no mode.
 
 The mode is most useful for **qualitative** data. For example, if you were analyzing customer orders and the most frequent item purchased was "Chicken Biryani," that would be the mode. It tells you the most popular choice.
+
+
+
+# MEAN > MEDIAN, right skewed
