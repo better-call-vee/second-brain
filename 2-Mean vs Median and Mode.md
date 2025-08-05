@@ -14,4 +14,11 @@ The mode is most useful for **qualitative** data. For example, if you were analy
 
 
 
-# MEAN > MEDIAN, right skewed
+## **MEAN > MEDIAN, right skewed
+## MEAN < MEDIAN, left skewed**
+
+
+The mean gets pulled in the direction of the long tail created by a few extreme values (outliers). The median, being the stable middle point, is not affected nearly as much. use datasets and compare.
+
+
+

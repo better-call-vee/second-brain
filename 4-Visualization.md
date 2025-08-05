@@ -49,3 +49,7 @@ histogram only applies with one variable and frequency
 
 ## Scatter plot
 applies with 2 or more variables
+
+
+## THE BOX
+![[The box.png]]
