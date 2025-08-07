@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "PROBLEM SOLUTION-1"
             }
+          },
+          {
+            "id": "bf0d3c3147063fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Method for Data Storytelling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Method for Data Storytelling"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Visualization.md",
+                "file": "Problems/PROBLEM SOLUTION-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4-Visualization"
+              "title": "Backlinks for PROBLEM SOLUTION-1"
             }
           },
           {
@@ -168,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea42b860653ad844",
+  "active": "bf0d3c3147063fd1",
   "lastOpenFiles": [
+    "Problems/PROBLEM SOLUTION-1.md",
+    "Problems/Method for Data Storytelling.md",
     "Problems",
     "4-Visualization.md",
     "The box.png",
@@ -177,7 +194,6 @@
     "3-Dispersion.md",
     "1-Quantitative vs. Qualitative.md",
     "2-Mean vs Median and Mode.md",
-    "Problems/PROBLEM SOLUTION-1.md",
     "Inferential Statistics/1-p-value and hypothesis.md",
     "Inferential Statistics",
     "a6c98785-3551-4c9d-a772-7157c7967169.png",
